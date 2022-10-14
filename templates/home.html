@@ -1,0 +1,92 @@
+{% extends 'base.html'%}
+
+{%load static%}
+
+{%block content%}
+
+
+<section class=" text-center container" style="margin-top:150px; background-color: #f8f9fa;">
+  <div class="row py-lg-5">
+    <div class="col-lg-6 col-md-8 mx-auto">
+      <h1 class="fw-light display-1">Welcome to Cardiff Library</h1>
+      <p class="lead text-muted my-5">A place where you can look up for books, borrow them or simply leave a review. Daily updates with new books added everyday.</p>
+      <p>
+        <a href="{% url 'bookstore' %}" class="btn btn-primary btn-lg my-2 text-center">See All Books</a>
+        
+      </p>
+    </div>
+  </div>
+</section>
+
+<div class="container my-5">
+  <hr>
+</div>
+<p class="container lead text-strong my-5 display-5 text-center">FAQs</p>
+
+<div class="container accordion accordion-flush" id="accordionFlushExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingOne">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+        Is there a charge for using the Cardiff Library's services, or may I make a book reservation at no cost?
+      </button>
+    </h2>
+    <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">The Cardiff Library provides its services at no cost to the public. In order to reserve books, you must first register to become a member. There are no fees associated with registration or making a book reservation.</div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+        I forgot my password. What do I need to do?
+      </button>
+    </h2>
+    <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">If you have forgotten your password, please use <a href="{%url 'forgotPassword'%}" class="">this link</a> to retrieve it.</div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+        Are there any late return fines? 
+      </button>
+    </h2>
+    <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">There are fines, yes. The first ten days are free for all reserved books. Thereafter, a daily fine of 1 GBP per book is imposed. To avoid any fines, you can check the return date of the reserved books on your dashboard.
+      </div>
+    </div>
+  </div>
+  
+  
+</div>
+
+{% comment %} <div >
+
+<h1 align="center" style="height:150px">Welcom To Cardiff Library</h1>
+
+
+  </div>
+
+      <div class="container mt-4">
+
+        <div class="intro-banner-wrap">
+          <img src="{% static 'images/banners/1.jpeg'%}" class="img-fluid rounded" />
+        </div>
+      </div> {% endcomment %}
+      <!-- container //  -->
+
+<!-- <div class="row">
+  {% for book in books %}
+
+   <div class="col-md-3">
+     <a href=""> <img src="{{book.Images.url}}" alt="Book Image"/> Book</a>
+     <figcaption class="info-wrap">
+       <a>{{book.book_title}}</a>
+     </figcaption>
+     </div>
+{%endfor%}
+  </div> -->
+
+</body>
+
+</html>
+{%endblock%}

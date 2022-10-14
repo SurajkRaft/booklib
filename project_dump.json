@@ -1,0 +1,293 @@
+[
+{
+    "model": "sessions.session",
+    "pk": "1r33ulqv0oad39goz5csob6yogrwxo75",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGln-7bKmpOcMlr84gGwpTirE3UmkFNC-mXlv5vy6VLeOPLspsQuT7PS7BR-fue0gPXy7dx57W-Yp8F3hBx381lN-XQ_376D6UbcaSNhsDGFGAo2ABlUEXcgEYQMVAxsDRQZt8aLogBLRSkDtSYazYp8vm_U17Q:1oblj1:5c6r0mOD0d6gK-VI66oSFQ8qOawcLz82qBoO6ICm220",
+        "expire_date": "2022-10-07T16:40:27.104Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "2ys93jmzck13ygy755wqtpexqsmea3om",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGln-7bKmpOcMlr84gGwpTirE3UmkFNC-mXlv5vy6VLeOPLspsQuT7PS7BR-fue0gPXy7dx57W-Yp8F3hBx381lN-XQ_376D6UbcaSNhsDGFGAo2ABlUEXcgEYQMVAxsDRQZt8aLogBLRSkDtSYazYp8vm_U17Q:1ofNBX:gM4qQ5Cdi0cWs7fqEVDjlavbjzYcwXRkGcSL_qY0fvg",
+        "expire_date": "2022-10-17T15:16:47.216Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "5r8dwd5kmz0j7hdg0l97cs72cynl8ncl",
+    "fields": {
+        "session_data": "e30:1ofNNR:hED0lkw5xWSoKg5FvNBDC09_0ZTjLm2ufxk-jBt01Rk",
+        "expire_date": "2022-10-17T15:29:05.162Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "6v114oab36pw0qi2k1icdnv7vmiphfju",
+    "fields": {
+        "session_data": "e30:1ofNOM:SRybfs0AaUb6AKF3g74HXcEXevlG-L9yTkT41EXP0Fg",
+        "expire_date": "2022-10-17T15:30:02.673Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "dccznclzhwzhaqogsalj3938gy372w3v",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSHAyKMu3fsNhGGmUjWQlHZl_HdD0oVu7znnvkVM-1bi3nmNC4mLMOL0u2HKT64D0CPVe5O51W1dUA5FHrTLWyN-XQ_376CkXkZNOkxoAyivAZxCrc7sTPZGe0sW5zwxQnCogAJz9l5rhzQHBoMqZfH5AsidN8g:1ofoMF:d-UaNEcpNhKJNqcFYayd06S2fpzkUmExId9YotcSglA",
+        "expire_date": "2022-10-18T20:17:39.014Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "kjjzu1ll475vtp7aclmyoze9g9x66eiu",
+    "fields": {
+        "session_data": "e30:1odDMY:qpelWsqNf2G1P2KUCWkdLiujamv1J1TE7S3MHu_6GKI",
+        "expire_date": "2022-10-11T16:23:14.132Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "lru68t2my98gqfjyuu34jakxj9m9hj2l",
+    "fields": {
+        "session_data": "e30:1odC3Y:G1q8dvRA4nCKbAsvirVfKDddHdbApebAmDmFRQrc3Uk",
+        "expire_date": "2022-10-11T14:59:32.901Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "nbib6hrhwygb4w60wo6wm0vos30wgxlt",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAYKIMu3fcMZBhAqoYmpV0Z765NutDtf-_9lwi0rTVsPS9hSuIijDj9bpH4kdsO0p3abZY8t3WZotwVedAuxznl5_Vw_w4q9fqtyUOxltCCLwi2xMychsgZBo1Ahk32ZwKtAbxCx04Xito4dKiQFYj3B-gcN2M:1og9Yc:sD_kJHKTpyAYgqbR3FyLYDRuPb3Zdc_xlHnADFMPFRc",
+        "expire_date": "2022-10-19T18:55:50.374Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "nk66jsnjimjn11i3v1wgs5k77tpsb20w",
+    "fields": {
+        "session_data": "e30:1ofWmg:5oKja1KBxkobqoWOman-tHByITNfYC80jiJ2cWPPu8o",
+        "expire_date": "2022-10-18T01:31:46.866Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "p0pxrma3pp21khgqaknz7r1y1had3atn",
+    "fields": {
+        "session_data": "e30:1obit4:1Siu2U10GhVy_wtmXYnMaydxDNH01BBnRS66cB8F0yg",
+        "expire_date": "2022-10-07T13:38:38.444Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "p78l108nfl1cx8dli1aplx3011cnlm33",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAYKIMu3fcMZBhAqoYmpV0Z765NutDtf-_9lwi0rTVsPS9hSuIijDj9bpH4kdsO0p3abZY8t3WZotwVedAuxznl5_Vw_w4q9fqtyUOxltCCLwi2xMychsgZBo1Ahk32ZwKtAbxCx04Xito4dKiQFYj3B-gcN2M:1og9np:Q6jd6iprR3QoWcU_bNEiDZ-5-FXdf1atuTQkqJhJT2Q",
+        "expire_date": "2022-10-19T19:11:33.822Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "pgto3s8uiuiitk7yghya86c4833in9z2",
+    "fields": {
+        "session_data": "e30:1ofNOK:xDZ8gSiZg4oa4ELWvguUWsfPUIn1R0eGlRfB3BJwvxw",
+        "expire_date": "2022-10-17T15:30:00.343Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "qmb5skgi1avtptc4tcalfbu9xqljq3ua",
+    "fields": {
+        "session_data": "e30:1oblHh:ATz3aaVGQy0ehTSSxJLOAQKTSQTiAPDyofH1yDio3FI",
+        "expire_date": "2022-10-07T16:12:13.029Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "rbdxtrznyiz5552rrxijsqb77q3cxji1",
+    "fields": {
+        "session_data": "e30:1ofOgy:GouhpGCm-qD5BYcvlaPI5NTFk39tD_x5CDWwCp64eBQ",
+        "expire_date": "2022-10-17T16:53:20.387Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "rhnpl2ohtxt03hluyjrb0frx19fb5qr3",
+    "fields": {
+        "session_data": "e30:1ojGy1:HpJ0OqBWicahM-4OoM3D5KuSNCL9EMgpZKxHnOkwtZQ",
+        "expire_date": "2022-10-28T09:26:57.820Z"
+    }
+},
+{
+    "model": "accounts.account",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$wf4pYoAPgqOeL7P56U6Iil$fgvVJg1dQR+UYmeH4Ejt8IMhD89M8FFTO7K19gBJT7I=",
+        "first_name": "anupam",
+        "last_name": "pathak",
+        "username": "anupam",
+        "email": "anupamsachin@gmail.com",
+        "phone_number": "",
+        "date_joined": "2022-09-23T16:39:54.035Z",
+        "last_login": "2022-10-04T20:06:34.386Z",
+        "is_admin": true,
+        "is_staff": true,
+        "is_active": true,
+        "is_superadmin": true
+    }
+},
+{
+    "model": "accounts.account",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$w2ToUMkKs48psUS3XUvMoC$7vKrG5e9Je+8jjyQASlTrQ+dY/T0qZoVXMP65GjFg9o=",
+        "first_name": "anupam",
+        "last_name": "pathak",
+        "username": "anup_sachin",
+        "email": "anup_sachin@yahoo.co.in",
+        "phone_number": "786",
+        "date_joined": "2022-09-27T15:00:07.700Z",
+        "last_login": "2022-10-04T20:17:39.007Z",
+        "is_admin": false,
+        "is_staff": false,
+        "is_active": true,
+        "is_superadmin": false
+    }
+},
+{
+    "model": "accounts.account",
+    "fields": {
+        "password": "pbkdf2_sha256$216000$7Bd0TFwvwSsH$O/Az/GFuZHgAoVTi/7H3J/uAuOr9TlQ3Sd5CktKNv3U=",
+        "first_name": "developer",
+        "last_name": "k",
+        "username": "developerraft",
+        "email": "developerraft@gmail.com",
+        "phone_number": "8888888888",
+        "date_joined": "2022-10-05T18:54:43.047Z",
+        "last_login": "2022-10-05T19:11:33.814Z",
+        "is_admin": false,
+        "is_staff": false,
+        "is_active": true,
+        "is_superadmin": false
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "anup_sachin@yahoo.co.in"
+        ],
+        "address_line_1": "",
+        "address_line_2": "",
+        "university_name": "",
+        "course_name": "",
+        "profile_picture": "userpfofile/Screenshot_2022-09-27_at_5.11.33_PM.png",
+        "city": "",
+        "state": "",
+        "country": ""
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "developerraft@gmail.com"
+        ],
+        "address_line_1": "",
+        "address_line_2": "",
+        "university_name": "",
+        "course_name": "",
+        "profile_picture": "default/default-user.png",
+        "city": "",
+        "state": "",
+        "country": ""
+    }
+},
+{
+    "model": "genre.genre",
+    "pk": 1,
+    "fields": {
+        "genre_name": "Web Development",
+        "slug": "web-development",
+        "description": "",
+        "genre_image": ""
+    }
+},
+{
+    "model": "genre.genre",
+    "pk": 2,
+    "fields": {
+        "genre_name": "Programming Languages",
+        "slug": "programming-languages",
+        "description": "",
+        "genre_image": ""
+    }
+},
+{
+    "model": "genre.genre",
+    "pk": 3,
+    "fields": {
+        "genre_name": "Algorithmic Programming",
+        "slug": "algorithmic-programming",
+        "description": "",
+        "genre_image": ""
+    }
+},
+{
+    "model": "genre.genre",
+    "pk": 4,
+    "fields": {
+        "genre_name": "Software Design, Testing & Engineering",
+        "slug": "software-design-testing-engineering",
+        "description": "",
+        "genre_image": ""
+    }
+},
+{
+    "model": "genre.genre",
+    "pk": 5,
+    "fields": {
+        "genre_name": "Computer Databases",
+        "slug": "computer-databases",
+        "description": "",
+        "genre_image": ""
+    }
+},
+{
+    "model": "genre.genre",
+    "pk": 6,
+    "fields": {
+        "genre_name": "Coding Interview",
+        "slug": "coding-interview",
+        "description": "",
+        "genre_image": ""
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 1,
+    "fields": {
+        "book_title": "HTML and CSS: Design and Build Websites",
+        "slug": "html-and-css-design-and-build-websites",
+        "description": "Every day, more and more people want to learn some HTML and CSS. Joining the professional web designers and programmers are new audiences who need to know a little bit of code at work (update a content management system or e-commerce store) and those who want to make their personal blogs more attractive. Many books teaching HTML and CSS are dry and only written for those who want to become programmers, which is why this book takes an entirely new approach.",
+        "author_name": "Jon Duckett",
+        "publisher_name": "Wiley",
+        "price": 17,
+        "Images": "photos/books/html.jpg",
+        "stock": 999,
+        "is_available": true,
+        "genre": 1,
+        "created_date": "2022-09-23T16:58:08.295Z",
+        "modified_date": "2022-10-05T19:12:09.009Z"
+    }
+},
+{
+    "model": "bookstore.book",
+    "pk": 2,
+    "fields": {
+        "book_title": "Java in easy steps",
+        "slug": "java-in-easy-steps",
+        "description": "Java in easy steps, 7th edition instructs you how to easily create your own Java programs. The book contains separate chapters on the major features of the Java language. Complete example programs with colorized code illustrate each important aspect of Java programming all in easy steps.",
+        "author_name": "Mike McGrath",
+        "publisher_name": 

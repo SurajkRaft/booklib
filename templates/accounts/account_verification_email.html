@@ -1,0 +1,10 @@
+{% autoescape off%}
+
+Hi {{user.first_name}},
+Please activate your account by clicking on the link below. 
+
+http://{{domain}}{%url 'activate' uidb64=uid token=token%}
+
+Please disregard this email if you believe it is not from you.
+
+{%endautoescape%}
